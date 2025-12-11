@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { Link, Routes, Route, useLocation } from 'react-router-dom';
 import { useState } from 'react';
 import './App.css';
-import Products from './components/products';
+import Products from './components/Products';
 import ModernGroceryHome from './components/ModernGroceryHome';
 import Product from './components/Product';
 import Cart from './components/Cart';
